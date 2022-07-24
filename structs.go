@@ -1,4 +1,4 @@
-package basic_structs
+package itswizardstructtest
 
 import "errors"
 
